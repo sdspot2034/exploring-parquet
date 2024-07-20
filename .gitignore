@@ -5,3 +5,4 @@ tsv_folder/
 zst_folder/
 exports/
 .DS_Store
+.ipynb_checkpoints/
