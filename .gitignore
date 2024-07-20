@@ -4,3 +4,4 @@ csv_folder/
 tsv_folder/
 zst_folder/
 exports/
+.DS_Store
